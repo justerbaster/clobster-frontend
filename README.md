@@ -2,6 +2,8 @@
 
 Autonomous Polymarket trading bot — Vercel + Supabase.
 
+![Clobster](https://img.shields.io/badge/status-live-brightgreen)
+
 ## Deploy
 
 ### 1. Create Supabase Project
